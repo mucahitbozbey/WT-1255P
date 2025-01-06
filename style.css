@@ -16,3 +16,15 @@
     padding: 1rem 1.75rem !important;
     font-size: 1.25rem !important;
 }
+.footer {
+    background-color: #2b3e50 !important;
+}
+a.footer-link {
+    color: #1abc9c !important;
+}
+a.footer-link:hover {
+    color: #55efd0 !important;
+}
+a.nav-link:hover {
+    color: #1abc9c !important;
+}
