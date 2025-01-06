@@ -3,3 +3,9 @@
     padding-top: 1.5rem !important;
     padding-bottom: 1.5rem !important;
 }
+/* padding  değerleri örnek siteden devtools üzerinden kopyalanmıştır. */
+.hero-section {
+    background-color: #1abc9c;
+    padding-top: calc(6rem + 104px);
+    padding-bottom: 6rem;
+}
